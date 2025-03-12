@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Cesare Leandro
-- 👀 Me tornar engenheiro da computação
+- 👀 Me tornar especialista em eletrônica
 - 🌱 Redes e Hardware
 - 💞️ Ajudar minha familia atraves de silicio
 - 📫 Cesareleandrofelipe@gmail.com
